@@ -4,6 +4,7 @@
 
 
 /* Assign styles here */
+/* Must use flex-wrap to ensure the flex boxes wrap down */
 .flexbox-container {
     min-height: 200px;
     border: 1px solid black;
